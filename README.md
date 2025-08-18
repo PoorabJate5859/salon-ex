@@ -3,8 +3,6 @@
 
 ---
 
----
-
 ### 🛠️ Languages & Tools
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,javascript,react,nodejs,express,mongodb,git,postman,firebase,ps" />
