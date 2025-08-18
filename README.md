@@ -1,6 +1,6 @@
 <!-- Header -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=2500&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Hi+👋,+I'm+Poorab+Jate;🚀+Full+Stack+Developer;💻+MERN+Stack+Enthusiast;🎨+UI/UX+Explorer" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=2500&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Hi+👋,+I'm+Poorab+Jate;🚀+Full+Stack+Developer;💻+MERN+Stack" alt="Typing Animation" />
 </h1>
 
 ---
@@ -23,3 +23,30 @@
 </p>
 
 ---
+
+### 🌱 What I'm Currently Doing
+- 🔭 Building **MERN Stack Projects** to sharpen my skills.  
+- 🌐 Learning **Full-Stack Development** with focus on **Node.js + MongoDB**.  
+- 📖 Exploring **System Design & Data Structures** for interviews.  
+- 🎯 Goal: Becoming a **Pro Full Stack Developer** & contributing to **Open Source**.  
+
+---
+
+### 🚀 Featured Projects
+<p align="center">
+  <a href="https://github.com/poorabjate5859/todo-list">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=poorabjate5859&repo=todo-list&theme=tokyonight&bg_color=0D1117&hide_border=true" />
+  </a>
+  <a href="https://github.com/poorabjate5859/book-store">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=poorabjate5859&repo=book-store&theme=tokyonight&bg_color=0D1117&hide_border=true" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/poorabjate5859/citycare">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=poorabjate5859&repo=citycare&theme=tokyonight&bg_color=0D1117&hide_border=true" />
+  </a>
+  <a href="https://github.com/poorabjate5859/portfolio">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=poorabjate5859&repo=portfolio&theme=tokyonight&bg_color=0D1117&hide_border=true" />
+  </a>
+</p>
