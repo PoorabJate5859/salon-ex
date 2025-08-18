@@ -1,21 +1,38 @@
-<h1 align="center">Hi 👋, I'm Poorab Jate</h1>
-<h3 align="center">🚀 Full Stack Developer</h3>
+<!-- Header -->
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=2500&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Hi+👋,+I'm+Poorab+Jate;🚀+Full+Stack+Developer;💻+MERN+Stack+Enthusiast;🎨+UI/UX+Explorer" alt="Typing Animation" />
+</h1>
 
 ---
 
 ### 🛠️ Languages & Tools
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,javascript,react,nodejs,express,mongodb,git,postman,firebase,ps" />
+  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,javascript,react,nodejs,express,mongodb,git,postman,firebase,ps&theme=dark" />
 </p>
 
 ---
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=poorabjate5859&show_icons=true&theme=tokyonight" height="180em" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=poorabjate5859&layout=compact&theme=tokyonight" height="180em" />
+  <img src="https://github-readme-stats.vercel.app/api?username=poorabjate5859&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7FF&icon_color=00F7FF" height="180em" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=poorabjate5859&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7FF" height="180em" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=poorabjate5859&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=poorabjate5859&theme=tokyonight&hide_border=true&background=0D1117&ring=00F7FF&fire=00F7FF&currStreakLabel=00F7FF" />
+</p>
+
+---
+
+### 🌐 Connect with me
+<p align="center">
+  <a href="https://linkedin.com/in/poorab-jate" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" width="40" height="40" />
+  </a>
+  <a href="https://instagram.com/poorab_jate32" target="_blank">
+    <img src="https://skillicons.dev/icons?i=instagram" width="40" height="40" />
+  </a>
+  <a href="mailto:poorabjate32@gmail.com" target="_blank">
+    <img src="https://skillicons.dev/icons?i=gmail" width="40" height="40" />
+  </a>
 </p>
