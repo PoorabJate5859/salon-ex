@@ -23,16 +23,3 @@
 </p>
 
 ---
-
-### 🌐 Connect with me
-<p align="center">
-  <a href="https://linkedin.com/in/poorab-jate" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" width="40" height="40" />
-  </a>
-  <a href="https://instagram.com/poorab_jate32" target="_blank">
-    <img src="https://skillicons.dev/icons?i=instagram" width="40" height="40" />
-  </a>
-  <a href="mailto:poorabjate32@gmail.com" target="_blank">
-    <img src="https://skillicons.dev/icons?i=gmail" width="40" height="40" />
-  </a>
-</p>
